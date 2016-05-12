@@ -1,0 +1,16 @@
+{
+  "name": "api-io-t---capgemini-development-challenge",
+  "version": "1.0.0",
+  "description": "Rendez-vous sur http://editor.swagger.io/ pour g\u00E9n\u00E9rer le code serveur. Le script d'injection Gatling s\u00E9quencera \u00E9critures et lectures. 10 injecteurs simultan\u00E9s injecterons 10 000 messages chacuns, soit 100 000 messages au total.",
+  "main": "index.js",
+  "keywords": [
+    "swagger"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "connect": "^3.2.0",
+    "js-yaml": "^3.3.0",
+    "swagger-tools": "0.9.*"
+  }
+}
